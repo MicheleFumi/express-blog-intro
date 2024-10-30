@@ -16,4 +16,8 @@ app.get('/home', (req, res) => {
 
   app.get('/post' ,postController.index)
 
+  app.get('/', (req, res) => {
   
+    
+    res.send('Hello World!')
+  })
