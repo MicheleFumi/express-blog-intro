@@ -10,12 +10,19 @@
     
 }
 
-.text-center{
-    text-align:center ;
+.header{
+   
     padding-top: 2rem ;
     padding-bottom: 2rem;
 }
 .pb-2{
     padding-bottom: 2rem;
 }
+ul{
+  list-style-type: none;
+  
+}
 
+.text-center{
+    text-align:center ;
+}
